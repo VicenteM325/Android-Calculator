@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="txt_view">Ingrese una expresion</string>
+    <string name="txt_edit_text">Escriba aquí</string>
+    <string name="btnCompilar">Calcular</string>
+    <string name="txt_view_resultado">Resultado</string>
+</resources>
